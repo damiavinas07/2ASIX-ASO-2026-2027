@@ -103,15 +103,14 @@ Utilitza:
 
 No busquis encara una solució tècnica. Pensa només en les necessitats de l'empresa.
 
-|Situació|Accés proposat|Justificació|
+| Situació | Accés proposat | Justificació |
 |---|---|---|
-|Dídac accedeix a la carpeta compartida d'Administració|||
-|Laia accedeix a la gestió del departament d'Administració|||
-|Pere, treballador extern, accedeix als comunicats interns|||
-|Talia accedeix als backups del sistema|||
-|Un membre de Producció musical accedeix a la carpeta d'Administració|||
-|Un participant de `campanya_estiu` accedeix als fitxers del projecte|||
-
+| Dídac accedeix a la carpeta compartida d'Administració | L/E | És membre del departament d'Administració i necessita consultar i modificar els documents compartits. |
+| Laia accedeix a la gestió del departament d'Administració | ADM | És la cap del departament i necessita gestionar els recursos i la informació del departament. |
+| Pere, treballador extern, accedeix als comunicats interns | NA | Els comunicats interns contenen informació destinada als treballadors de l'empresa i els usuaris externs no hi han de tenir accés. |
+| Talia accedeix als backups del sistema | ADM | És la cap d'Informàtica i necessita gestionar les còpies de seguretat i els recursos del sistema. |
+| Un membre de Producció musical accedeix a la carpeta d'Administració | NA | No necessita accedir als documents d'Administració per realitzar les seves funcions. |
+| Un participant de `campanya_estiu` accedeix als fitxers del projecte | L/E | Si està assignat al projecte, necessita consultar, crear i modificar els fitxers relacionats amb la campanya. |
 ---
 
 # 4. Primer problema: com assignem els permisos?
