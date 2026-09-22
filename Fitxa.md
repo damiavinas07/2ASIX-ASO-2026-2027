@@ -1,6 +1,6 @@
 # Fitxa 1 — Anàlisi inicial de MusicCloud
 
-**Nom i cognoms:** __________________________________________  
+**Nom i cognoms:** __________Damià Viñas i Balsera____________  
 **Data:** __________________  
 **Equip / parella:** _________________________________________
 
