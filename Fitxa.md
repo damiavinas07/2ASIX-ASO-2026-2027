@@ -149,7 +149,7 @@ Si l'empresa tingués 100 treballadors amb el mateix tipus d'accés, hauríem de
 
 Què passaria cada vegada que s'incorporés una persona nova?
 
----
+Cada vegada que s'incorporés una persona nova, hauríem d'afegir-la manualment i configurar-li els permisos corresponents. Això podria provocar errors o que la persona no tingués els permisos correctes.
 
 ---
 
@@ -157,7 +157,6 @@ Què passaria cada vegada que s'incorporés una persona nova?
 
 Què passaria quan una persona canviés de departament?
 
----
 
 ---
 
