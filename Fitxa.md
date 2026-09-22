@@ -9,13 +9,21 @@
 MusicCloud necessita reorganitzar la seva infraestructura informàtica. Abans d'instal·lar o configurar cap servei, cal entendre:
 
 - qui treballa a l'empresa;
-| Treballadors                                                                                              | Departament       | Cap de departament |
-| --------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
-| Aina Ciurans<br>Rut Tornil                                                                                | Direcció          |                    |
-| Dídac Gassó<br>Laia Macias                                                                                | Administració     | Laia Macias        |
-| Estel Birosta<br>Aina Zuriguel<br>Lluïsa Richart                                                          | Suport tècnic     | Lluïsa Richart     |
-| Roser Alberch<br>Guillem Adella<br>Meritxell Reglat<br>Alícia Monclús<br>Carles Molins<br>Eulàlia Galcera | Producció musical | Meritxell Reglat   |
-| Talia Costas<br> Alex Soriano                                                                                        | Informàtica       | Talia Costas       |
+Aina Ciurans
+Rut Tornil 
+Dídac Gassó
+Laia Macias
+Estel Birosta
+Aina Zuriguel
+Lluïsa Richart  
+Roser Alberch
+Guillem Adella
+Meritxell Reglat
+Alícia Monclús
+Carles Molins
+Eulàlia Galcera
+Talia Costas
+Alex Soriano 
 
     
 - quines funcions té cada persona;
