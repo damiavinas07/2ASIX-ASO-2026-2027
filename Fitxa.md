@@ -59,12 +59,12 @@ Quines diferències observes entre un **treballador**, un **departament** i una 
 
 Hi ha persones que, pel seu càrrec o funció, necessiten accessos diferents dels altres membres del seu departament?
 
-☐ Sí  
+X Sí  
 ☐ No
 
 Posa'n algun exemple:
 
----
+La persona que és cap de departament necessita més permisos que la resta de treballadors, perquè ha de poder gestionar els recursos i supervisar els membres del seu departament.
 
 ---
 
