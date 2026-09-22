@@ -1,7 +1,7 @@
 # Fitxa 1 — Anàlisi inicial de MusicCloud
 
 **Nom i cognoms:** __________Damià Viñas i Balsera____________  
-**Data:** __________________  
+**Data:** ________22/09/2026__________  
 **Equip / parella:** _________________________________________
 
 ## Objectiu
