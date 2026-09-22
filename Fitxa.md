@@ -9,23 +9,6 @@
 MusicCloud necessita reorganitzar la seva infraestructura informàtica. Abans d'instal·lar o configurar cap servei, cal entendre:
 
 - qui treballa a l'empresa;
-<br>
-Aina Ciurans
-Rut Tornil 
-Dídac Gassó
-Laia Macias
-Estel Birosta
-Aina Zuriguel
-Lluïsa Richart  
-Roser Alberch
-Guillem Adella
-Meritxell Reglat
-Alícia Monclús
-Carles Molins
-Eulàlia Galcera
-Talia Costas
-Alex Soriano 
-
     
 - quines funcions té cada persona;
     
