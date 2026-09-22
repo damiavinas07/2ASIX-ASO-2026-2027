@@ -29,7 +29,7 @@ Completa la taula següent.
 
 |Persona|Departament|Funció / responsabilitat|Necessita privilegis especials? Per què?|
 |---|---|---|---|
-|hola||||
+|Aina Ciurans<br>Rut Tornil||||
 |||||
 |||||
 |||||
