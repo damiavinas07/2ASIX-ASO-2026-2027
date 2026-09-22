@@ -141,7 +141,7 @@ David → lectura/escriptura
 
 Què passaria si l'empresa tingués **100 treballadors** amb el mateix tipus d'accés?
 
----
+Si l'empresa tingués 100 treballadors amb el mateix tipus d'accés, hauríem de configurar els permisos un per un. Això seria molt lent i complicaria molt la gestió dels permisos.
 
 ---
 
