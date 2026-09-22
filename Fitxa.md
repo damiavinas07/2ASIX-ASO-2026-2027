@@ -49,7 +49,9 @@ Completa la taula següent.
 
 Quines diferències observes entre un **treballador**, un **departament** i una **funció o responsabilitat**?
 
----
+- **Treballador:** és la persona que forma part de l’empresa i realitza una determinada tasca.
+- **Departament:** és l’àrea de l’empresa on treballa la persona, per exemple **Administració**, **Informàtica** o **Producció musical**.
+- **Funció o responsabilitat:** són les tasques i obligacions que té el treballador dins del seu departament, com ara gestionar recursos, administrar sistemes o coordinar un equip.
 
 ---
 
