@@ -27,16 +27,23 @@ Consulta la informació disponible sobre els departaments, treballadors i perfil
 
 Completa la taula següent.
 
-|Persona|Departament|Funció / responsabilitat|Necessita privilegis especials? Per què?|
+| Persona | Departament | Funció / responsabilitat | Necessita privilegis especials? Per què? |
 |---|---|---|---|
-|Aina Ciurans<br>Rut Tornil||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+| Aina Ciurans | Direcció | Treballadora de Direcció | Sí. Necessita accés a informació i recursos de gestió de l’organització. |
+| Rut Tornil | Direcció | Treballadora de Direcció | Sí. Necessita accés a informació i recursos de gestió de l’organització. |
+| Dídac Gassó | Administració | Treballador d’Administració | Sí. Necessita accés a documents i recursos administratius. |
+| Laia Macias | Administració | Cap de departament | Sí. Necessita permisos addicionals per gestionar el departament i els seus recursos. |
+| Estel Birosta | Suport tècnic | Treballadora de Suport tècnic | Sí. Necessita permisos per accedir i gestionar sistemes tècnics. |
+| Aina Zuriguel | Suport tècnic | Treballadora de Suport tècnic | Sí. Necessita permisos per accedir i gestionar sistemes tècnics. |
+| Lluïsa Richart | Suport tècnic | Cap de departament | Sí. Necessita permisos addicionals per administrar els recursos i sistemes del departament. |
+| Roser Alberch | Producció musical | Treballadora de Producció musical | No. Pot treballar amb els recursos necessaris sense privilegis d’administració. |
+| Guillem Adella | Producció musical | Treballador de Producció musical | No. Pot treballar amb els recursos necessaris sense privilegis d’administració. |
+| Meritxell Reglat | Producció musical | Cap de departament | Sí. Necessita permisos addicionals per gestionar el departament i els seus recursos. |
+| Alícia Monclús | Producció musical | Treballadora de Producció musical | No. Pot treballar amb els recursos necessaris sense privilegis d’administració. |
+| Carles Molins | Producció musical | Treballador de Producció musical | No. Pot treballar amb els recursos necessaris sense privilegis d’administració. |
+| Eulàlia Galcera | Producció musical | Treballadora de Producció musical | No. Pot treballar amb els recursos necessaris sense privilegis d’administració. |
+| Talia Costas | Informàtica | Cap de departament | Sí. Necessita privilegis per administrar sistemes, usuaris i recursos informàtics. |
+| Alex Soriano | Informàtica | Treballador d’Informàtica | Sí. Pot necessitar permisos tècnics per mantenir i gestionar els sistemes informàtics. |
 
 ### 1.1. Reflexió
 
