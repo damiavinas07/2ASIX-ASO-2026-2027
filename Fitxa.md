@@ -190,12 +190,21 @@ Ara es produeixen aquests tres canvis:
 Dídac deixa Administració i passa a Producció musical.
 
 Quins accessos hauria de perdre?
+Hauria de perdre els accessos a les carpetes d'Administració :
+
+- `/empresa/departaments/administracio/compartida`
+- `/empresa/departaments/administracio/documentacio_interna`
+- `/empresa/departaments/administracio/gestio_departament`
 
 ---
 
 Quins accessos hauria d'obtenir?
 
----
+Hauria d'obtenir els accessos a Producció musical :
+
+- `/empresa/departaments/produccio_musical/compartida`
+- `/empresa/departaments/produccio_musical/artistes`
+- `/empresa/departaments/produccio_musical/cataleg`
 
 ---
 
