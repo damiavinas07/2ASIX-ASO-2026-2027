@@ -157,6 +157,7 @@ Cada vegada que s'incorporés una persona nova, hauríem d'afegir-la manualment 
 
 Què passaria quan una persona canviés de departament?
 
+Quan una persona canviés de departament, hauríem de modificar els seus permisos: treure-li els permisos de l'antic departament i donar-li els del nou. Això també faria més complicada la gestió.
 
 ---
 
