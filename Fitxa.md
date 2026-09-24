@@ -167,7 +167,13 @@ Proposa una manera de gestionar aquestes persones conjuntament.
 
 No cal que coneguis encara el nom tècnic de la solució.
 
----
+Una manera més fàcil seria crear grups segons el departament.
+
+Per exemple:
+
+- Grup Administració - accés a les carpetes d'Administració.
+- Grup Informàtica - accés a les carpetes d'Informàtica.
+- Grup Producció musical - accés a les carpetes de Producció musical.
 
 ---
 
