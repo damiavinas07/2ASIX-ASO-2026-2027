@@ -214,9 +214,13 @@ S'incorpora una nova treballadora al departament d'Administració.
 
 Quins accessos caldria configurar?
 
----
+Caldria afegir al grup d'Administració i donar-li els permisos :
 
----
+- `/empresa/departaments/administracio/compartida` - L/E
+- `/empresa/departaments/administracio/documentacio_interna` - L/E
+- `/empresa/comu/comunicats` - L
+- `/empresa/comu/plantilles` - L/E
+
 
 ---
 
