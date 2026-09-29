@@ -118,13 +118,13 @@ Perquè la OU indica on està organitzat el compte dins del directori, mentre qu
 
 Explica breument què entens per **servei de directori**.
 
----
+Un servei de directori és un sistema que emmagatzema i organitza informació sobre objectes de la xarxa, com usuaris, grups, equips i servidors, i permet consultar-la i administrar-la de manera centralitzada.
 
 ---
 
 Quin problema resol a MusicCloud?
 
----
+Permet centralitzar la informació dels usuaris, grups i equips de MusicCloud, evitant haver de gestionar aquests comptes i recursos de manera independent en cada sistema.
 
 ---
 
