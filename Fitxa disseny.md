@@ -31,11 +31,12 @@ Proposa les **unitats organitzatives (OU)** principals que utilitzaries a MusicC
 
 |OU|Què contindrà?|Per què la crees?|
 |---|---|---|
-||||
-||||
-||||
-||||
-||||
+|OU=Usuaris|Comptes dels treballadors|Per separar i administrar els comptes d'usuari|
+|OU=Grups|Grups de seguretat i de treball|Per centralitzar l'organització dels grups|
+|OU=Equips|Ordinadors clients|Per organitzar els equips dels treballadors|
+|OU=Servidors|Comptes dels servidors|Per separar els servidors dels equips clients|
+|OU=Serveis|Comptes d'aplicacions i serveis|Per separar els comptes tècnics dels comptes personals|
+
 
 ## 2.1. Organització dels usuaris
 
@@ -44,7 +45,10 @@ Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
 ```text
 MusicCloud
 │
-└──
+└──Usuaris
+    ├── Administració
+    ├── IT
+    └── AltresDepartaments
 ```
 
 ---
