@@ -203,22 +203,20 @@ Escull **dues decisions** del teu DIT que consideris importants i justifica-les.
 
 ### Decisió 1
 
----
+Separar els usuaris en una OU pròpia i organitzar-los per departament.
 
 **Justificació:**
 
----
+Aquesta estructura permet mantenir els comptes ordenats segons l'organització de MusicCloud i facilita l'administració quan augmenti el nombre de treballadors.
 
 ---
 
 ### Decisió 2
 
----
-
+Separar els grups de les OU i utilitzar els grups per gestionar permisos i projectes.
 **Justificació:**
 
----
-
+Això permet que un mateix usuari, com Dídac Gassó, pugui estar ubicat a Administració i alhora pertànyer al grup CampanyaEstiu. D'aquesta manera, la ubicació i els permisos no depenen de la mateixa estructura.
 ---
 
 ---
