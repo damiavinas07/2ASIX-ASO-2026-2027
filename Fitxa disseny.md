@@ -71,14 +71,13 @@ Indica quina opció utilitzaries principalment en cada cas.
 
 **OU:**
 
----
+Una OU serveix principalment per organitzar els objectes del directori en una estructura jeràrquica i facilitar l'administració.
 
 ---
 
 **Grup:**
 
----
-
+Un grup serveix per reunir usuaris o altres comptes per una necessitat comuna, especialment per gestionar permisos i accessos.
 ---
 
 ---
