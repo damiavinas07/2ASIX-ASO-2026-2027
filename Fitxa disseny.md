@@ -13,15 +13,15 @@ Indica quins tipus d'objectes consideres que ha de contenir el servei de directo
 
 |Tipus d'objecte|Exemples a MusicCloud|
 |---|---|
-|Usuaris||
-|Grups||
-|Equips||
-|Servidors||
-|Comptes d'aplicacions o serveis||
-
+|Usuaris|Treballadors de MusicCloud, com Dídac Gassó|
+|Grups|Administració, administradors del sistema, Campanya Estiu|
+|Equips|Ordinadors clients dels treballadors|
+|Servidors|Servidors de MusicCloud i servidors de serveis|
+|Comptes d'aplicacions o serveis|Comptes utilitzats per aplicacions i serveis|
 Hi afegiries algun altre tipus d'objecte?
 
----
+Sí. Es podrien afegir impressores o altres recursos de xarxa si MusicCloud necessita gestionar-los de manera centralitzada.
+
 
 ---
 
