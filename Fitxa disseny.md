@@ -136,11 +136,11 @@ Completa les frases següents.
 
 **LDAP és:**
 
----
+Un protocol per accedir, consultar i gestionar informació emmagatzemada en un servei de directori.
 
 **LDAP no és:**
 
----
+No és un servei de directori concret ni és sinònim d'Active Directory. És un protocol que pot ser utilitzat per diferents serveis de directori.
 
 Indica si les afirmacions són certes o falses.
 
