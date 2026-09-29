@@ -97,17 +97,18 @@ Indica:
 
 **En quina OU ubicaries el seu compte?**
 
----
+OU=Administració
 
 **A quins grups podria pertànyer?**
 
----
+Administracio
+CampanyaEstiu
 
 ---
 
 ### Per què no és contradictori que estigui en una OU però pertanyi a diversos grups?
 
----
+Perquè la OU indica on està organitzat el compte dins del directori, mentre que els grups indiquen a quines funcions, permisos o projectes està associat. Un usuari pot estar en una OU i formar part de diversos grups.
 
 ---
 
