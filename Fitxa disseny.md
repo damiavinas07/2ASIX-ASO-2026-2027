@@ -175,10 +175,24 @@ Ha de mostrar, com a mínim:
 ```text
 MusicCloud
 │
+├── ou=Usuaris
+│   ├── ou=Administració
+│   ├── ou=IT
+│   └── ou=AltresDepartaments
 │
+├── ou=Grups
+│   ├── cn=Administracio
+│   ├── cn=CampanyaEstiu
+│   └── cn=Administradors
 │
+├── ou=Equips
+│   └── (ordinadors clients)
 │
+├── ou=Servidors
+│   └── (servidors)
 │
+└── ou=Serveis
+    └── (comptes d'aplicacions i serveis
 ```
 
 ---
