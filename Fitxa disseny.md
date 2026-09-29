@@ -252,15 +252,27 @@ A partir de les decisions preses durant la sessió, deixa definida la proposta q
 ```text
 MusicCloud
 │
+├── OU=Usuaris
+│   ├── OU=Administració
+│   ├── OU=IT
+│   └── OU=AltresDepartaments
 │
+├── OU=Grups
 │
+├── OU=Equips
 │
+├── OU=Servidors
+│
+└── OU=Serveis
 ```
 
 ## Criteri utilitzat per organitzar els objectes
 
----
+Els objectes s'organitzen segons el seu tipus i funció. Els usuaris es poden subdividir segons el departament, mentre que equips, servidors i comptes de servei es mantenen separats per facilitar-ne l'administració.
 
 ---
 
 ## Criteri utilitzat per diferenciar OU i grups
+Les OU s'utilitzen per donar estructura al directori i organitzar els objectes. Els grups s'utilitzen per agrupar usuaris segons permisos, accessos, funcions o projectes.
+
+
