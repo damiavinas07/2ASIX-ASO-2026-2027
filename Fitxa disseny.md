@@ -146,10 +146,10 @@ Indica si les afirmacions són certes o falses.
 
 |Afirmació|C|F|
 |---|:-:|:-:|
-|LDAP és sinònim d'Active Directory|☐|☐|
-|LDAP permet accedir i consultar informació d'un directori|☐|☐|
-|OpenLDAP és una implementació d'un servei de directori|☐|☐|
-|Active Directory utilitza LDAP, entre altres tecnologies|☐|☐|
+|LDAP és sinònim d'Active Directory|☐|x|
+|LDAP permet accedir i consultar informació d'un directori|x|☐|
+|OpenLDAP és una implementació d'un servei de directori|x|☐|
+|Active Directory utilitza LDAP, entre altres tecnologies|x|☐|
 
 ---
 
