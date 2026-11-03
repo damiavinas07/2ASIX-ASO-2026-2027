@@ -1,6 +1,6 @@
 Import-Module ActiveDirectory
 
-$nomOU = "Musiccloud"
-$domini = "DC=damiamusiccloud,DC=local"
+$nom = "info"
+$ruta = "DC=damiamusiccloud,DC=local"
 
-New-ADOrganizationalUnit -Name $nomOU -Path $domini
+New-ADOrganizationalUnit -Name $nom -Path $ruta

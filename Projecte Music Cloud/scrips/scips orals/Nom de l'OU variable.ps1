@@ -1,6 +1,10 @@
+
+param(
+    [string]$Nom = "Administracio"
+)
+
 Import-Module ActiveDirectory
 
-$nomOU = Read-Host "Nom OU"
-$domini = "DC=damiamusiccloud,DC=local"
+$ruta = "DC=damiamusiccloud,DC=local"
 
-New-ADOrganizationalUnit -Name $nomOU -Path $domini
+New-ADOrganizationalUnit -Name $Nom -Path $ruta
